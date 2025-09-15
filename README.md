@@ -1,2 +1,2 @@
-# Aviation Calculator
-[https://pixel-hopper.github.io/Aviation-Calculator/](https://pixel-hopper.github.io/Aviation-Calculator/)
+# Schematic Symbols
+[https://pixel-hopper.github.io/Schematic-Symbols/](https://pixel-hopper.github.io/Schematic Symbols/)
